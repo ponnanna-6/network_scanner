@@ -12,4 +12,5 @@ python network_scanner.py
 >Enter ip range : ............
 
 Prints the mac and ip address of devices connected
+
 credits:zaid@zsecurity.org
